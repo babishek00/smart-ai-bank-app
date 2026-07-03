@@ -51,7 +51,7 @@ export default function LoginPage() {
       <div className="login-card">
         <div className="brand-block">
           <Logo />
-          <h1>Smart AI Bank</h1>
+          <h1>KSKL Smart AI Bank App</h1>
           <p className="subtitle">
             {otpRequired
               ? 'Enter the OTP code to finish signing in'
